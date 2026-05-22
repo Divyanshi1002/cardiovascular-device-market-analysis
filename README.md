@@ -70,9 +70,3 @@ This project uses publicly available government data (FDA, CMS). Analysis and co
 - [FDA 510(k) Database](https://www.fda.gov/medical-devices/guidance-documents/guidance-summary-510k)
 - [CMS Medicare Utilization Reports](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports)
 - Cardiovascular device regulatory framework documentation
-
-
----
-
-*Last updated: May 2026*
-*Analysis period: 2015–2023*
